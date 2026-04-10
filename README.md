@@ -1,1 +1,1 @@
-# sorvete-back-certo
+# java-sorvete-server
